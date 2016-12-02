@@ -19,7 +19,7 @@
         <li><a href="ejercicios/">Ejercicios</a></li>
         <li><a href="tutoriales.php">Tutoriales</a></li>
         <li><a href="juegos/">Juegos</a></li>
-        <li><a href="manual/">Manual</a></li>
+        <li><a href="ManualOrtografia.pdf">Manual</a></li>
         
 
       </ul>
