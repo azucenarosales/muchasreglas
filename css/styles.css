@@ -3,6 +3,13 @@ nav {
 }
 
 body {
-	background-color: #252525	
+	background-color: #252525	;
 }
 
+h1, p {
+	color: white;
+}
+
+.conteiner{
+padding-bottom: 0px
+}
