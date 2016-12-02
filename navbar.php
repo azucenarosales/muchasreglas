@@ -11,7 +11,7 @@
 
   <nav>
     <div class="nav-wrapper">
-      <img  height="70px" width="70px" class="brand-logo left" src="img/colegio_del_bosque_logo.jpg" alt="Colegio del Bosque" weight="20%">
+      
       
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <!-- Dropdown Trigger -->
