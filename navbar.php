@@ -12,7 +12,7 @@
   <nav class="naranja">
     <div class="nav-wrapper">
       
-      
+      <img src="/haymuchasreglaswuu/img/Logosmall.png" class="brand-logo left logo" alt="HayMuchasReglasWuu" height="80%">
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <!-- Dropdown Trigger -->
         <li><a class="dropdown-button" href="#!" data-activates="dropdown1" id="resumen">Resumen<i class="material-icons right">arrow_drop_down</i></a></li>

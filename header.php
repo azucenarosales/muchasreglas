@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+      <title>Hay muchas reglas wuu</title>
 	<meta charset="UTF-8">
 	<title>Hay muchas reglas wuu</title>
   <!--Import Google Icon Font-->
