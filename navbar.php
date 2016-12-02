@@ -9,7 +9,7 @@
   <li><a href="#!">Esdrujulas</a></li>
 </ul>
 
-  <nav>
+  <nav class="naranja">
     <div class="nav-wrapper">
       
       
@@ -17,7 +17,7 @@
         <!-- Dropdown Trigger -->
         <li><a class="dropdown-button" href="#!" data-activates="dropdown1" id="resumen">Resumen<i class="material-icons right">arrow_drop_down</i></a></li>
         <li><a href="ejercicios/">Ejercicios</a></li>
-        <li><a href="tutoriales/">Tutoriales</a></li>
+        <li><a href="tutoriales.php">Tutoriales</a></li>
         <li><a href="juegos/">Juegos</a></li>
         <li><a href="manual/">Manual</a></li>
         
